@@ -2,7 +2,7 @@
 
 FlixTex is an innovative clothing site that offers a diverse range of clothing collections for men and women. Our platform provides an engaging shopping experience with a user-friendly interface and responsive design.
 
-## Table of Contents
+## Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -22,15 +22,13 @@ FlixTex is an innovative clothing site that offers a diverse range of clothing c
 ## Technologies Used
 
 - **Frontend**: 
-  - React.js for building user interfaces
-  - CSS for styling
-  - HTML for structure
+  - React.js 
+  - Tailwind CSS
+  - HTML 
 - **Backend**: 
-  - Node.js and Express (if applicable)
+  - Node.js and Express 
 - **Database**: 
-  - MongoDB (if applicable)
-- **Deployment**: 
-  - Deployed on [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/) (specify your deployment platform)
+  - Mysql
 
 ## Installation
 
@@ -85,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to:
 
 - **Name**: Dhruv Katakiya
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [dev.dhruvin.0.1@gmail.com](mailto:dev.dhruvin.0.1@gmail.com)
 - **GitHub**: [Dhruvinkatakiya](https://github.com/Dhruvinkatakiya)
 
 ## Acknowledgments
