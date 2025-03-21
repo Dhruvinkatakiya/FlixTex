@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out to:
 
-- **Name**: Dhruv Katakiya
+- **Name**: Dhruvin Katakiya
 - **Email**: [dev.dhruvin.0.1@gmail.com](mailto:dev.dhruvin.0.1@gmail.com)
 - **GitHub**: [Dhruvinkatakiya](https://github.com/Dhruvinkatakiya)
 
