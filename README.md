@@ -84,6 +84,7 @@ For any inquiries or feedback, please reach out to:
 
 - **Name**: Dhruvin Katakiya
 - **Email**: [dev.dhruvin.0.1@gmail.com](mailto:dev.dhruvin.0.1@gmail.com)
+- **Linkdin**: [Dhruvinkatakiya](www.linkedin.com/in/dhruvin-katakiya)
 - **GitHub**: [Dhruvinkatakiya](https://github.com/Dhruvinkatakiya)
 
 ## Acknowledgments
